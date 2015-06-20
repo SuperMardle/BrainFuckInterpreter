@@ -1,8 +1,8 @@
 # BrainFuckInterpreter
-A lightweight interpreter of brainfuck written by C
+A lightweight interpreter of brainfuck written in C
 
 - Brainfuck Language Introduction:  [https://zh.wikipedia.org/wiki/Brainfuck](https://zh.wikipedia.org/wiki/Brainfuck)
-- A brainfuck editor & optimizing interpreter, written in Javascript: [http://copy.sh/brainfuck/](http://copy.sh/brainfuck/)
+- An online brainfuck editor & optimizing interpreter, written in Javascript: [http://copy.sh/brainfuck/](http://copy.sh/brainfuck/)
 
 
 |BF  |C                 |
